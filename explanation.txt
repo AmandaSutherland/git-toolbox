@@ -1,0 +1,6 @@
+I looked into rebasing a bunch because I had never worked with it before. 
+
+Rebasing allows you go between branches and choose how you want to merge various branches.
+It also gives you the ability to edit your commits - you can change the messages so they
+either are a mixture of several messages or just get change what you wanted to say, or you
+can squash several together so you don't have so many small commits. 
